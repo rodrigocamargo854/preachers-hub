@@ -1,0 +1,52 @@
+[
+    {
+      "nome": "Sabedoria",
+      "descricao": "Capacidade de julgar e agir segundo a vontade de Deus.",
+      "referencia_biblica": "Sabedoria 9,1-6",
+      "exemplo": "Salomão pediu sabedoria para governar Israel (1 Reis 3,9).",
+      "video_formacao": "https://www.youtube.com/watch?v=ExemploVideoSabedoria"
+    },
+    {
+      "nome": "Entendimento",
+      "descricao": "Dom que nos permite compreender as verdades da fé.",
+      "referencia_biblica": "Lucas 24,45",
+      "exemplo": "Os discípulos no caminho de Emaús reconheceram Jesus quando Ele abriu suas mentes para entender as Escrituras.",
+      "video_formacao": "https://www.youtube.com/watch?v=ExemploVideoEntendimento"
+    },
+    {
+      "nome": "Conselho",
+      "descricao": "Capacidade de discernir e aconselhar segundo Deus.",
+      "referencia_biblica": "Provérbios 11,14",
+      "exemplo": "José do Egito aconselhou o faraó para preparar o Egito para a fome.",
+      "video_formacao": "https://www.youtube.com/watch?v=ExemploVideoConselho"
+    },
+    {
+      "nome": "Fortaleza",
+      "descricao": "Força interior para suportar dificuldades e permanecer fiel.",
+      "referencia_biblica": "Efésios 6,10",
+      "exemplo": "Os mártires cristãos permaneceram fiéis mesmo diante da morte.",
+      "video_formacao": "https://www.youtube.com/watch?v=ExemploVideoFortaleza"
+    },
+    {
+      "nome": "Ciência",
+      "descricao": "Conhecimento profundo das coisas de Deus e da criação.",
+      "referencia_biblica": "Provérbios 2,6",
+      "exemplo": "São Tomás de Aquino usou a ciência para aprofundar a teologia cristã.",
+      "video_formacao": "https://www.youtube.com/watch?v=ExemploVideoCiencia"
+    },
+    {
+      "nome": "Piedade",
+      "descricao": "Devoção sincera e amorosa para com Deus e o próximo.",
+      "referencia_biblica": "Romanos 8,14-16",
+      "exemplo": "São Francisco de Assis expressava seu amor a Deus por meio do cuidado com os pobres.",
+      "video_formacao": "https://www.youtube.com/watch?v=ExemploVideoPiedade"
+    },
+    {
+      "nome": "Temor de Deus",
+      "descricao": "Respeito e reverência diante da grandeza de Deus.",
+      "referencia_biblica": "Provérbios 1,7",
+      "exemplo": "Os santos sempre viveram com um temor reverencial a Deus.",
+      "video_formacao": "https://www.youtube.com/watch?v=ExemploVideoTemor"
+    }
+  ]
+  
